@@ -15,11 +15,23 @@ body{
     color:white;
 
 
-h1{
-    color:white;
-    font-size:50px;
-    margin-bottom:10px;
-    letter-spacing:2px;
+.about h1,
+.skills h1,
+.tools h1,
+.experience h1,
+.contact h1{
+
+  font-size:42px;
+
+  color:#66d9ff;
+
+  margin-bottom:30px;
+
+  font-weight:700;
+
+  letter-spacing:1px;
+
+  text-shadow:0 0 15px rgba(102,217,255,0.6);
 }
 
 p{
@@ -207,15 +219,5 @@ p{
 .phone{
   color:#00ff99;
 }
-h1{
-  font-size:42px;
-  color:#7dd3fc;
 
-  margin-bottom:30px;
-
-  font-weight:700;
-  letter-spacing:1px;
-
-  text-shadow:0 0 15px rgba(125,211,252,0.5);
-}
 }
