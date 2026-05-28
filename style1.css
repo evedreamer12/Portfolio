@@ -15,77 +15,24 @@ body{
     color:white;
 
 
-.about h1{
-     font-size:42px;
-
-color:#89cff0;
-
-  margin-bottom:30px;
-
-  font-weight:700;
-
-  letter-spacing:1px;
-
-  text-shadow:0 0 15px rgba(102,217,255,0.6);
-}
-
-.skills h1{
-     font-size:42px;
-
-color:#00e5ff;
-
-  margin-bottom:30px;
-
-  font-weight:700;
-
-  letter-spacing:1px;
-
-  text-shadow:0 0 15px rgba(102,217,255,0.6);
-}
-
-.tools h1{
-     font-size:42px;
-
-color:#00e5ff;
-
-  margin-bottom:30px;
-
-  font-weight:700;
-
-  letter-spacing:1px;
-
-  text-shadow:0 0 15px rgba(102,217,255,0.6);
-}
-
-.experience h1{
-     font-size:42px;
-
-color:#89cff0;
-
-  margin-bottom:30px;
-
-  font-weight:700;
-
-  letter-spacing:1px;
-
-  text-shadow:0 0 15px rgba(102,217,255,0.6);
-}
-
+.about h1,
+.skills h1,
+.tools h1,
+.experience h1,
 .contact h1{
 
   font-size:42px;
 
-color:#00e5ff;
-
-  margin-bottom:30px;
+  color:#ffd700;
 
   font-weight:700;
 
+  margin-bottom:30px;
+
   letter-spacing:1px;
 
-  text-shadow:0 0 15px rgba(102,217,255,0.6);
+  text-shadow:0 0 12px rgba(255,215,0,0.5);
 }
-
 p{
     font-size:18px;
     color:#ddd;
