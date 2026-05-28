@@ -15,10 +15,63 @@ body{
     color:white;
 
 
-.about h1,
-.skills h1,
-.tools h1,
-.experience h1,
+.skills h1{
+    
+  font-size:42px;
+
+  color:#ffd700;
+
+  font-weight:700;
+
+  margin-bottom:30px;
+
+  letter-spacing:1px;
+
+  text-shadow:0 0 12px rgba(255,215,0,0.5);
+}
+    
+.tools h1{
+     font-size:42px;
+
+  color:#ffd700;
+
+  font-weight:700;
+
+  margin-bottom:30px;
+
+  letter-spacing:1px;
+
+  text-shadow:0 0 12px rgba(255,215,0,0.5);
+}
+     
+.experience h1{
+      font-size:42px;
+
+  color:#ffd700;
+
+  font-weight:700;
+
+  margin-bottom:30px;
+
+  letter-spacing:1px;
+
+  text-shadow:0 0 12px rgba(255,215,0,0.5);
+}
+    
+.about h1{
+      font-size:42px;
+
+  color:#ffd700;
+
+  font-weight:700;
+
+  margin-bottom:30px;
+
+  letter-spacing:1px;
+
+  text-shadow:0 0 12px rgba(255,215,0,0.5);
+}
+    
 .contact h1{
 
   font-size:42px;
