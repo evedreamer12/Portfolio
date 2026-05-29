@@ -192,17 +192,20 @@ margin-bottom:30px;
   color:black;
   background:#ffd700;
 }
-   footer p:first-child{
+  footer p:first-child{
 
   font-size:22px;
 
-  color:#ffcc70;
+  color:#ff8c00;
 
   font-style:italic;
 
-  text-shadow:0 0 12px rgba(255,204,112,0.8);
+  font-weight:700;
 
-  font-weight:600;
+  text-shadow:
+  0 0 10px #ff8c00,
+  0 0 20px #ff8c00,
+  0 0 30px #ff8c00;
 }
 
 footer p:first-child{
